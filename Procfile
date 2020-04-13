@@ -1,1 +1,1 @@
-web: gunicorn covid_django_server.wsgi
+web: gunicorn covid-django-server.wsgi
