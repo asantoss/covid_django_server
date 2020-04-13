@@ -11,6 +11,8 @@ bs4 = "*"
 django-rest-framework = "*"
 psycopg2 = "*"
 requests = "*"
+gunicorn = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.6"
